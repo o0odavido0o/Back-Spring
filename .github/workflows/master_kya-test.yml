@@ -49,5 +49,5 @@ jobs:
       with:
         app-name: 'kya-test'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_6383cac1478741238429a63cb4975865 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_331ea4cbaeba4b0c9af678d5e5c7cd47 }}
         package: '*.jar'

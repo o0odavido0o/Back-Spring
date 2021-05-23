@@ -11,7 +11,7 @@ public class RestfulApplication {
 
     @GetMapping("/message")
     public String message(){
-        return "IT LIVES!!!";
+        return "IT LIVES???";
     }
 
     public static void main(String[] args) {
